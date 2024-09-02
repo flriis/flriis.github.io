@@ -2,11 +2,30 @@
 <html>
     <body>
         <style>
-             div { background-size:contain;
-                  background: linear-gradient(to bottom, #3c00ff 0%, #000000 100%)  
+            .linear {
+                display: flex;
+                background-color: #000000;
+                margin: 0;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                background: linear-gradient(-45deg, #f0932b, #eb4d4b, #4834d4, #be2edd);
+                background-size: 400% 400%;
+                animation: hcode 15s ease infinite;
+            }
+            @keyframes hcode {
+                0% {
+                    background-position: 0% 0%;
                 }
-                {}
-                    </style>
+                50% {
+                    background-position: 100% 50%;
+                }
+                100% {
+                    background-position: 0% 50%;
+                }
+            }
+        </style>
                  <div></div>
              <a href="https://www.w3schools.com"> coding hulp 1.6 :D</a>
          </body>
