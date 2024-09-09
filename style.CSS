@@ -2,5 +2,7 @@ body
 {height: 2500px;
     background:linear-gradient(#6600ff, #000000);
 background-repeat: repeat-x;}
+
 a{color: #000000;}
+
 marquee{color:#000000;}
