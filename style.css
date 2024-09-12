@@ -7,3 +7,8 @@ background-repeat: repeat-x;}
 a{color: #000000;}
 
 marquee{color:#000000;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
