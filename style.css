@@ -1,4 +1,4 @@
-p.outset {border-style: outset;}
+p.outset {border-style: outset;color:#ff0000;}
 body 
 {height: 2500px;
     background:linear-gradient(hsl(253, 100%, 50%), #000000);
