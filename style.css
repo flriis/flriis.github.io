@@ -1,5 +1,6 @@
 p.outset {
     border-style: outset;
+    background-color: rgb(141, 141, 141);
      color:#000000;font-size:50px ;
          border-width: 10px;
         margin-right: 400px;
