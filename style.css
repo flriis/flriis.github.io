@@ -1,3 +1,4 @@
+/*titel border*/
 p.outset {
     border-style: outset;
     background-color: rgb(141, 141, 141);
@@ -10,9 +11,9 @@ body
 {height: 2500px;
     background:linear-gradient(hsl(253, 100%, 50%), #000000);
 background-repeat: repeat-x;}
-
+/*/
 a{color: #000000;}
-
+/*bewegende tekst*/
 marquee{color:#000000;}
 ul {
     list-style-type: none;
