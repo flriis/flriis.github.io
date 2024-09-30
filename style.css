@@ -9,7 +9,7 @@ p.outset {
     }
 body 
 {height:100vh;
-    background:linear-gradient(hsl(253, 100%, 50%), #000000);
+    background:linear-gradient(rgb(81, 0, 255), #000000);
 background-repeat: repeat-x;}
 /*/
 a{color: #000000;}
