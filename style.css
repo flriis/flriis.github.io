@@ -65,6 +65,7 @@ ul {
 
   .gitaar{
 display: inline-block;
+float: right;
 border-color: #3300ff;
  border-radius: 8px;
 border:solid #3300ff }
