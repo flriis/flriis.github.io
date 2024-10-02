@@ -62,3 +62,9 @@ ul {
   
   /* verander dropdownkleur als je erover hovered */
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .gitaar{
+display: inline-block;
+border-color: #3300ff;
+ border-radius: 8px;
+border:solid #3300ff }
