@@ -70,3 +70,11 @@ background-color: #000000;
 border-color: #3300ff;
  border-radius: 8px;
 border:solid #3300ff }
+
+.school{
+  display: inline-block;
+  float: right;
+  background-color: #000000;
+  border-color: #3300ff;
+   border-radius: 8px;
+  border:solid #3300ff }
