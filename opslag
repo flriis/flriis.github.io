@@ -1,0 +1,64 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  /* Dropdown Knop */
+.dropbtn {
+    background-color: #001aff;
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    margin:10px; 
+    border: none;
+  }
+  
+  /* Deze <div> - is nodig voor de positie van de dropdown */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (is er normaal niet) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #001aff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links in the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change kleur of dropdown links wanneer je hovered */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* laat het dropdown menu zien als je hovered */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* verander dropdownkleur als je erover hovered */
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+  <div>
+  <div class="dropdown" align="right">
+      <button class="dropbtn">Menu</button>
+      <div class="dropdown-content">
+        <a href="https://flriis.github.io/pagina2.html">volgende pagina</a>
+        <a href="https://www.w3schools.com/">w3 schools</a>
+        <a href="https://sanj071.github.io/">Sanjay's webstie</a>
+        <a href="https://flriis.github.io/pagina3.html">binairy bonanza</a>
+        <a href="https://flriis.github.io/kleurmodellen.html">kleur modellen</a>
+        <a href="https://flriis.github.io/games.html">gams</a>
+        <a href="https://flriis.github.io/binar.html">binair stelsel</a>
+      </div>
+         </div>
+        
+      </div>

@@ -15,53 +15,6 @@ background-repeat: repeat-x;}
 a{color: #000000;}
 /*bewegende tekst*/
 marquee{color:#000000;}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  /* Dropdown Knop */
-.dropbtn {
-    background-color: #001aff;
-    color: rgb(0, 0, 0);
-    padding: 16px;
-    font-size: 16px;
-    margin:10px; 
-    border: none;
-  }
-  
-  /* Deze <div> - is nodig voor de positie van de dropdown */
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  /* Dropdown Content (is er normaal niet) */
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #001aff;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  /* Links in the dropdown */
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  /* Change kleur of dropdown links wanneer je hovered */
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  /* laat het dropdown menu zien als je hovered */
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  /* verander dropdownkleur als je erover hovered */
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
   .gitaar{
 display: inline-block;
