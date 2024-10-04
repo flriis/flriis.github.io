@@ -38,7 +38,6 @@ border:solid #3300ff }
     padding: 0;
     overflow: hidden;
     background-color: rgb(48, 0, 104);
-    position: fixed;
     top: 0;
     width: 100%;
   }
