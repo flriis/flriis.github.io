@@ -33,6 +33,7 @@ border:solid #3300ff }
   border:solid #3300ff }
 
   ul {
+    float:top;
     list-style-type: none;
     margin: 0;
     padding: 0;
