@@ -43,7 +43,7 @@ border:solid #3300ff }
   }
   
   li {
-    float: left;
+    float: left top;
   }
   
   li a {
