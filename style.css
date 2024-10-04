@@ -7,11 +7,12 @@ p.outset {
         margin-right: 400px;
      margin-left: 400px;
     }
+    /*achtergrond kleur*/
 body 
 {height:100vh;
     background:linear-gradient(rgb(106, 0, 255), #000000);
 background-repeat: repeat-x;}
-/*/
+
 a{color: #000000;}
 /*bewegende tekst*/
 marquee{color:#000000;}
@@ -33,7 +34,7 @@ border:solid #3300ff }
   border:solid #3300ff }
 
   ul {
-    float:top;
+    float:top; 
     list-style-type: none;
     margin: 0;
     padding: 0;
